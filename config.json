@@ -1,0 +1,11 @@
+{
+    "starting_USD": 1000,
+    "single_test": true,
+    "short_EMA": 6,
+    "long_EMA": 15,
+    "delta": 0.25,
+    "fees": 0.44,
+    "print_advice": true,
+    "input_file": "candles-2h.csv",
+    "output_file": "profits-2h.csv"
+}
